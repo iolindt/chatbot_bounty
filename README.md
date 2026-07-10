@@ -1,2 +1,2 @@
 # Simple Chatbot
-Rule-based chatbot demo.
+Rule-based chatbot ver1
