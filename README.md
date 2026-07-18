@@ -1,2 +1,2 @@
 # Simple Chatbot
-Rule-based chatbot ver1 upd
+Rule-based chatbot ver1 upd гвз
