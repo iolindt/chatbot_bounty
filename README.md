@@ -1,3 +1,3 @@
 # Simple Chatbot
-Rule-based chatbot ver1 upd гвз1 ghgiu
-рпшг
+Rule-based chatbot ver1 upd 
+рпшг рр
