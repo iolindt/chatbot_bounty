@@ -4,3 +4,4 @@ Rule-based chatbot ver1 upd
 ршго
 uiuo
 ш8гш
+шо
