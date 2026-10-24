@@ -1,3 +1,3 @@
 # Simple Chatbot
 Rule-based chatbot ver1 upd 
-а212кнг1
+а212кнг11
